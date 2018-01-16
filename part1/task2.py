@@ -1,7 +1,3 @@
-# name: Andrew Chen
-# class: CS 3376
-# date: 12.5.16
-
 #!/usr/bin/python
 
 import os
