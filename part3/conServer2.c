@@ -1,7 +1,3 @@
-// name: Andrew Chen
-// class: CS 3376
-// date: 12.5.16
-
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <netinet/in.h>
